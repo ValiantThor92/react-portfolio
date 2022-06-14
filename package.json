@@ -1,0 +1,20 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValiantThor92/react-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValiantThor92/react-portfolio/issues"
+  },
+  "homepage": "https://github.com/ValiantThor92/react-portfolio#readme"
+}
