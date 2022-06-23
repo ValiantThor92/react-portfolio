@@ -86,7 +86,7 @@ const Header = () => {
             </a>
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#000000]" style={{color: "#C2714F", border: "1px solid #C2714F"}}>
-            <a href="../assets/resume.pdf" className="flex justify-between items-center w-full">
+            <a href="https://drive.google.com/file/d/1jd5xMSS83IdxXYVP2x_2YKAxjAmHHswa/view" className="flex justify-between items-center w-full">
               Resume <span style={{color: "white"}}><FaFileAlt size={30}/></span>
             </a>
           </li>
