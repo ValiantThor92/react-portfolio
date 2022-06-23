@@ -19,8 +19,7 @@ const Projects = () => {
           </p>
         </div>
 
-        <div  className="grid sm:grid-cols-2 md:grid-cols-3 gap-6" >
-            
+        <div  className="grid sm:grid-cols-2 md:grid-cols-3 gap-6" > 
             
             {/* SingleProject component */}
             <SingleProject projectName="Budget tracker" projectImage={budgetTracker} repo="https://github.com/ValiantThor92/budget-tracker" deployed="https://cryptic-journey-24159.herokuapp.com/"/>
@@ -29,7 +28,6 @@ const Projects = () => {
             <SingleProject projectName="Note taker App" projectImage={notes} repo="https://github.com/ValiantThor92/note-taker" deployed="https://thors-note-taker.herokuapp.com/"/>
             <SingleProject projectName="Tech Blog" projectImage={techB} repo="https://github.com/ValiantThor92/tech-blog" deployed="https://frozen-spire-87692.herokuapp.com/"/>
             <SingleProject projectName="Day Planner" projectImage={dayScheduler} repo="https://github.com/ValiantThor92/work-day-scheduler" deployed="https://valiantthor92.github.io/work-day-scheduler/index.html"/>
-
 
         </div>
       </div>
