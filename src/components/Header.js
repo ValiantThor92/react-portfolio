@@ -88,7 +88,7 @@ const Header = () => {
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#000000]" style={{color: "#2EFF2E", border: "1px solid #2d7dd2"}}>
             <a href="https://stackoverflow.com/users/17692333/travis-nelson?tab=profile" className="flex justify-between items-center w-full">
-              LinkedIn <span style={{color: "orange"}}><FaStackOverflow size={30}/></span>
+              Stackoverflow <span style={{color: "orange"}}><FaStackOverflow size={30}/></span>
             </a>
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#000000]" style={{color: "#C2714F", border: "1px solid #C2714F"}}>
