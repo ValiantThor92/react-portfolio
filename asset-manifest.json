@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.82f79cca.css",
+    "main.js": "/react-portfolio/static/js/main.ec11d548.js",
+    "static/media/tech-blog.JPG": "/react-portfolio/static/media/tech-blog.62bd05a9d9ba142dc377.JPG",
+    "static/media/portrait.jpg": "/react-portfolio/static/media/portrait.1d1b1f6230263f0ffbb1.jpg",
+    "static/media/group-project.JPG": "/react-portfolio/static/media/group-project.e7fdfe8501930f8652e9.JPG",
+    "static/media/weather-dashboard.JPG": "/react-portfolio/static/media/weather-dashboard.2c9d6c130484e591059d.JPG",
+    "static/media/work-day-scheduler.JPG": "/react-portfolio/static/media/work-day-scheduler.b7966d5ba3241830b72c.JPG",
+    "static/media/budget-tracker.JPG": "/react-portfolio/static/media/budget-tracker.558a71ea45fbb96279bf.JPG",
+    "static/media/note-taker.JPG": "/react-portfolio/static/media/note-taker.17e18b6837247086d8d3.JPG",
+    "index.html": "/react-portfolio/index.html",
+    "main.82f79cca.css.map": "/react-portfolio/static/css/main.82f79cca.css.map",
+    "main.ec11d548.js.map": "/react-portfolio/static/js/main.ec11d548.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82f79cca.css",
+    "static/js/main.ec11d548.js"
+  ]
+}
