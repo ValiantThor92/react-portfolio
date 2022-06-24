@@ -5,6 +5,7 @@ import {
   FaTimes,
   FaGithub,
   FaLinkedin,
+  FaStackOverflow,
   FaFileAlt
 } from "react-icons/fa";
 import {Link} from "react-scroll";
@@ -82,12 +83,17 @@ const Header = () => {
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#000000]" style={{color: "#2d7dd2", border: "1px solid #2d7dd2"}}>
             <a href="https://www.linkedin.com/in/travis-nelson-623aa5227/" className="flex justify-between items-center w-full">
-              LinkedIn <span style={{color: "white"}}><FaLinkedin size={30}/></span>
+              LinkedIn <span style={{color: "blue"}}><FaLinkedin size={30}/></span>
+            </a>
+          </li>
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#000000]" style={{color: "#2EFF2E", border: "1px solid #2d7dd2"}}>
+            <a href="https://stackoverflow.com/users/17692333/travis-nelson?tab=profile" className="flex justify-between items-center w-full">
+              LinkedIn <span style={{color: "orange"}}><FaStackOverflow size={30}/></span>
             </a>
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#000000]" style={{color: "#C2714F", border: "1px solid #C2714F"}}>
             <a href="https://drive.google.com/file/d/1jd5xMSS83IdxXYVP2x_2YKAxjAmHHswa/view" className="flex justify-between items-center w-full">
-              Resume <span style={{color: "white"}}><FaFileAlt size={30}/></span>
+              Resume <span style={{color: "red"}}><FaFileAlt size={30}/></span>
             </a>
           </li>
         </ul>
