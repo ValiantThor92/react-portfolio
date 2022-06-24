@@ -10,9 +10,7 @@ const About = () => {
               About Me
             </p>
           </div>
-
           <div></div>
-
           <div className="max-w-[1000px] w-full  text-white md:text-right px-8">
             <p className="font-bold">
               <span className="text-2xl font-bold text-[#c27137]">
@@ -20,11 +18,12 @@ const About = () => {
               </span>
               Getting a fresh start by diving head first into the world of software development!
               My back ground is in CNC manufacturing and industrial automation so im no stranger to
-              tech and some forms of software. My current endevour is a full-stack web development
+              tech and some forms of software. My current endeavor is a full-stack web development
               boot camp where ive worked in teams and solo projects with a wide range of technologies.
               Always interested in learning more, im only a call/message/email away!
             </p>
-          </div>
+          </div>     
+          <img href="./src/assets/portrait2.jpg" alt="" height="250" width="250"></img>
           <div className="max-w-[1000px] w-full font-bold mt-10 md:mt-0 px-8">
             <p className="text-2xl font-bold text-[#c27137] mb-4">Skills</p>
             <table className="border-collapse border border-slate-500">
