@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.d2afed0d.css",
-    "main.js": "/react-portfolio/static/js/main.6d01b592.js",
+    "main.js": "/react-portfolio/static/js/main.38cf61ab.js",
+    "static/media/Rascal-Erratic-v2.gif": "/react-portfolio/static/media/Rascal-Erratic-v2.f7020e0553ee4c80697b.gif",
     "static/media/tech-blog.JPG": "/react-portfolio/static/media/tech-blog.62bd05a9d9ba142dc377.JPG",
     "static/media/portrait.jpg": "/react-portfolio/static/media/portrait.1d1b1f6230263f0ffbb1.jpg",
-    "static/media/group-project.JPG": "/react-portfolio/static/media/group-project.e7fdfe8501930f8652e9.JPG",
     "static/media/weather-dashboard.JPG": "/react-portfolio/static/media/weather-dashboard.2c9d6c130484e591059d.JPG",
     "static/media/work-day-scheduler.JPG": "/react-portfolio/static/media/work-day-scheduler.b7966d5ba3241830b72c.JPG",
     "static/media/budget-tracker.JPG": "/react-portfolio/static/media/budget-tracker.558a71ea45fbb96279bf.JPG",
@@ -12,10 +12,10 @@
     "static/media/portrait2.jpg": "/react-portfolio/static/media/portrait2.a3446705e49c66dfe6ee.jpg",
     "index.html": "/react-portfolio/index.html",
     "main.d2afed0d.css.map": "/react-portfolio/static/css/main.d2afed0d.css.map",
-    "main.6d01b592.js.map": "/react-portfolio/static/js/main.6d01b592.js.map"
+    "main.38cf61ab.js.map": "/react-portfolio/static/js/main.38cf61ab.js.map"
   },
   "entrypoints": [
     "static/css/main.d2afed0d.css",
-    "static/js/main.6d01b592.js"
+    "static/js/main.38cf61ab.js"
   ]
 }
