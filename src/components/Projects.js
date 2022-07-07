@@ -1,6 +1,6 @@
 import React from "react";
 import budgetTracker from "../assets/budget-tracker.JPG";
-import group1 from "../assets/group-project.JPG";
+import group1 from "../assets/Rascal-Erratic-v2.gif";
 import notes from "../assets/note-taker.JPG";
 import techB from "../assets/tech-blog.JPG";
 import weather from "../assets/weather-dashboard.JPG";
