@@ -23,7 +23,7 @@ const Projects = () => {
             
             {/* SingleProject component */}
             <SingleProject projectName="Budget tracker" projectImage={budgetTracker} repo="https://github.com/ValiantThor92/budget-tracker" deployed="https://cryptic-journey-24159.herokuapp.com/"/>
-            <SingleProject projectName="Lets talk recipes" projectImage={group1} repo="https://github.com/ValiantThor92/lets-talk-recipes" deployed="https://valiantthor92.github.io/lets-talk-recipes/"/>
+            <SingleProject projectName="NFT Mint Tracker" projectImage={group1} repo="https://github.com/irvingjem/rascal-erratic" deployed="https://rascal-erratic.herokuapp.com/"/>
             <SingleProject projectName="Weather Dashboard" projectImage={weather} repo="https://github.com/ValiantThor92/weather-dashboard" depolyed="https://valiantthor92.github.io/weather-dashboard/"/>
             <SingleProject projectName="Note taker App" projectImage={notes} repo="https://github.com/ValiantThor92/note-taker" deployed="https://thors-note-taker.herokuapp.com/"/>
             <SingleProject projectName="Tech Blog" projectImage={techB} repo="https://github.com/ValiantThor92/tech-blog" deployed="https://frozen-spire-87692.herokuapp.com/"/>
